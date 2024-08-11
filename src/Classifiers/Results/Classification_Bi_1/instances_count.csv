@@ -1,0 +1,18 @@
+all, /Users/bpratyush/Downloads/packet_features/normal.csv, 1023463 
+unique, /Users/bpratyush/Downloads/packet_features/normal.csv, 193954 
+Start, 19395, End, 38789 
+slice, /Users/bpratyush/Downloads/packet_features/normal.csv, 19394 
+all, /Users/bpratyush/Downloads/packet_features/scan_A.csv, 40624 
+unique, /Users/bpratyush/Downloads/packet_features/scan_A.csv, 16701 
+slice, /Users/bpratyush/Downloads/packet_features/scan_A.csv, 16701 
+all, /Users/bpratyush/Downloads/packet_features/scan_sU.csv, 22436 
+unique, /Users/bpratyush/Downloads/packet_features/scan_sU.csv, 16887 
+slice, /Users/bpratyush/Downloads/packet_features/scan_sU.csv, 16887 
+all, /Users/bpratyush/Downloads/packet_features/sparta.csv, 19103574 
+unique, /Users/bpratyush/Downloads/packet_features/sparta.csv, 298364 
+Start, 29836, End, 59671 
+slice, /Users/bpratyush/Downloads/packet_features/sparta.csv, 29835 
+all, /Users/bpratyush/Downloads/packet_features/mqtt_bruteforce.csv, 9686086 
+unique, /Users/bpratyush/Downloads/packet_features/mqtt_bruteforce.csv, 217657 
+Start, 21765, End, 43529 
+slice, /Users/bpratyush/Downloads/packet_features/mqtt_bruteforce.csv, 21764 
